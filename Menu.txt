@@ -12,3 +12,5 @@ Telefone:
 Cliente:
 CPF:
 E-mail:
+
+Aceitar Participações:? ()Sim  ()Não
