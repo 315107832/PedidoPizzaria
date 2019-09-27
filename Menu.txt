@@ -2,7 +2,7 @@
 
 Pizzaria: Pizza Alegre
 
-Versao: 002
+Versao: 001
 
 Operador:
 
@@ -12,5 +12,3 @@ Telefone:
 Cliente:
 CPF:
 E-mail:
-
-Aceitar Participações de Promoções:? ()Sim  ()Não
