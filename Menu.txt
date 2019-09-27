@@ -10,3 +10,5 @@ Operador:
 Telefone:
 
 Cliente:
+CPF:
+E-mail:
